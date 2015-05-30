@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.caocaosong.cn/app/CCExpresser.ipa</string>
+					<string>http://app.caocaosong.cn/app/CCBusiness.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://app.caocaosong.cn/app/Icon@2x.png</string>
+					<string>http://app.caocaosong.cn/app/Icon_business@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,19 +27,19 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://app.caocaosong.cn/app/Icon.png</string>
+					<string>http://app.caocaosong.cn/app/Icon_business.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.caocaos.accept</string>
+				<string>com.caocaos.launch</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>欢迎使用曹操送配送端APP</string>
+				<string>欢迎使用曹操送商家端APP</string>
 			</dict>
 		</dict>
 	</array>
